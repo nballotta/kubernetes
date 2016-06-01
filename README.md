@@ -153,5 +153,11 @@ You can find more projects, tools and articles related to Kubernetes on the  [aw
 
 Instructive & educational resources for the Kubernetes community. By the community.
 
+* **KubeRocks** - [http//kube.rocks](http://kube.rocks):
+
+Daily news and resources about Kubernetes
+
 
 [![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/README.md?pixel)]()
+
+
